@@ -1,0 +1,21 @@
+{
+  "title": "Lo Shu Enigma (洛書)",
+  "welcome_subtitle": "The Scroll of Luo River: Cosmic Order & Feng Shui.",
+  "start_button": "BEGIN JOURNEY",
+  "info_button": "Theory",
+  "doc_title": "Legend & Cosmology",
+  "close_info": "Back to Game",
+  "steps": [
+    "🌊 Anciently, the Luo River (洛) flooded, destroying the crops of China.",
+    "👑 Emperor Yu the Great sought to tame the waters with wisdom and canals.",
+    "🐢 From the river rose a turtle with the 'Luo Shu' (洛書) etched on its shell.",
+    "📜 'Luo' (洛) is the sacred river; 'Shu' (书) means 'Book' or 'Divine Script'.",
+    "✨ Those marks became the foundation of Feng Shui (風水) and astrology.",
+    "🧩 The square represents the universe in motion and the Wu Xing (五行) balance.",
+    "🧧 Solve the enigma to harmonize the cosmic energies!"
+  ],
+  "game_instructions": "Arrange numbers (1-9) so every line sums to 15.",
+  "win_message": "Balance restored! You have honored the Script of the Luo River.",
+  "next_button": "Continue",
+  "start_game": "Solve the Enigma"
+}
