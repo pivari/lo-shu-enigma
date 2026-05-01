@@ -1,0 +1,21 @@
+{
+  "title": "L'Enigma di Lo Shu (洛書)",
+  "welcome_subtitle": "Il Libro del Fiume Luo: Ordine Cosmico e Feng Shui.",
+  "start_button": "INIZIA IL VIAGGIO",
+  "info_button": "Teoria",
+  "doc_title": "Leggenda e Cosmologia",
+  "close_info": "Torna al Gioco",
+  "steps": [
+    "🌊 Anticamente, il fiume Luo (洛) straripava, distruggendo i raccolti della Cina.",
+    "👑 L'Imperatore Yu il Grande cercò di domare le acque con canali e saggezza.",
+    "🐢 Dal fiume emerse una tartaruga divina con il 'Luo Shu' (洛書) sul guscio.",
+    "📜 'Luo' (洛) è il fiume sacro; 'Shu' (书) significa 'Libro' o 'Documento Sacro'.",
+    "✨ Quei segni divennero il fondamento del Feng Shui (風水) e dell'astrologia.",
+    "🧩 Rappresenta l'equilibrio dei Wu Xing (五行): Terra, Fuoco, Acqua, Metallo e Legno.",
+    "🧧 Risolvi l'enigma per armonizzare le energie del cosmo!"
+  ],
+  "game_instructions": "Disponi i numeri (1-9) affinché ogni linea sommi 15.",
+  "win_message": "Equilibrio ripristinato! Hai onorato lo Scritto del Fiume Luo.",
+  "next_button": "Continua",
+  "start_game": "Risolvi l'Enigma"
+}
