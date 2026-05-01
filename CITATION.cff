@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software in your teaching or research, please cite it as below."
+authors:
+  - name: "pivari.com"
+title: "Lo Shu Enigma: Ancient Legend and Computational Complexity"
+version: 1.0
+date-released: 2026-05-01
+url: "https://pivari.com"
+license: MIT
