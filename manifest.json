@@ -1,12 +1,27 @@
 {
   "name": "Lo Shu Enigma",
   "short_name": "LoShu",
+  "description": "Ancient magic square puzzle with cosmic legend.",
   "start_url": "index.html",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#121212",
   "theme_color": "#c0392b",
   "icons": [
-    { "src": "icons/icon-192.png", "type": "image/png", "sizes": "192x192" },
-    { "src": "icons/icon-512.png", "type": "image/png", "sizes": "512x512" }
-  ]
+    { 
+      "src": "icons/icon-192.png", 
+      "type": "image/png", 
+      "sizes": "192x192",
+      "purpose": "any maskable" 
+    },
+    { 
+      "src": "icons/icon-512.png", 
+      "type": "image/png", 
+      "sizes": "512x512",
+      "purpose": "any maskable" 
+    }
+  ],
+  "categories": ["games", "education"],
+  "lang": "en",
+  "dir": "ltr"
 }
